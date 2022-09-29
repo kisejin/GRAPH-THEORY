@@ -1,2 +1,2 @@
 # GRAPH-THEORY
-## 1. Find all paths from source to target
+## 1. Counting all paths from source to target with constant length
